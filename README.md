@@ -1,0 +1,2 @@
+- 👀 I’m interested in project management
+- 📫 Discord - Doctor Rock#5566
