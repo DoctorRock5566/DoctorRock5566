@@ -1,2 +1,2 @@
-- 👀 I’m interested in project management
+- 👀 I'm trying myself in C++
 - 📫 Discord - Doctor Rock#5566
