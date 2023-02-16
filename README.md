@@ -1,2 +1,3 @@
-- 👀 I'm trying myself in C++
-- 📫 Discord - Doctor Rock#5566
+- 👀 I'm trying myself in C++ / Python
+- 🪄 Discord - Doctor Rock#5566
+- 📫 e-mail - me@chervakov.ru 
